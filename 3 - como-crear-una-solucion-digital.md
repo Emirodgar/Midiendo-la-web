@@ -164,7 +164,7 @@ RewriteCond %{REQUEST_FILENAME} -s [OR]
 RewriteCond %{REQUEST_FILENAME} -l [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^.*$ - [NC,L]
-RewriteRule ^.*$ default.gif [NC,L]
+RewriteRule ^.*$ imagen-por-defecto.jpg [NC,L]
 ```
 
 ### Redireccionar todos los errores
