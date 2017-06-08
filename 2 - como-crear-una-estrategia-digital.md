@@ -20,9 +20,9 @@ Una estrategia estará compuesta por diferentes tácticas, complementarias o ind
 
 El término KPI (*Key Performance Indicator*) es la métrica (o métricas) que nos van a permitir conocer el rendimiento de nuestras tácticas y por tanto de nuestra estrategia.
 
-Cada táctica implementada debe ser medida a través de una o varias métricas. Una de ellas debe ser la principal (KPI), la cual nos permitirá conocer el resultado de la misma. 
+Cada táctica implementada debe ser medida a través de una o varias métricas. Una de ellas debe ser la principal (KPI), la cual nos permitirá conocer la evolución de la misma. 
 
-Independientemente de los KPIs de las tácticas tenemos que tener otros asociados a nuestra estrategia; estos últimos serán los que determinarán si hemos alcanzado nuestro objetivo o no.
+Independientemente de los KPIs que hayamos definido en nuestras tácticas, tenemos que tener otros asociados a nuestra estrategia; estos últimos serán los que determinarán si hemos alcanzado nuestro objetivo o no.
 
 ## El retorno del conocimiento
 
