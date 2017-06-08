@@ -166,3 +166,15 @@ RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^.*$ - [NC,L]
 RewriteRule ^.*$ default.gif [NC,L]
 ```
+
+### Redireccionar todos los errores
+
+Esta directiva debemos aplicarla solo en casos muy concretos. Por ejemplo, si acabamos de realizar una migración y estamos generando un número descontrolado de errores 404, puede ser buena idea utilizar este comando para redireccionar todo a la home y evitar generar una mala experiencia a nuestros visitantes.
+
+No obstante, debería ser algo temporal en lo que solucionamos el problema que está generando los errores. Una vez solventado, es recomendable ofrecer una página de **error 404 personalizada**.
+
+`
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /? [L,R=301]
+`
