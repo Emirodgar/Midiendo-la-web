@@ -45,6 +45,26 @@ Quizá las plataformas más conocidas a día de hoy sean la de [Google Cloud][2]
 [2]:https://cloud.google.com/?hl=es
 [3]:https://aws.amazon.com/es/
 
+### Otras herramientas
+
+Para dotar a nuestra estrategia de diversas funcionalidades podemos hacer uso de herramientas disponibles en la red. A continuación se muestra un pequeño listado de recursos interesantes:
+
+- [Httpstatus][5] analiza redirecciones
+- [Browseo][6] nos permite ver nuestra web como la ven los buscadores
+- [Similar page checker][7] comprueba similitudes entre diferentes páginas
+- [Giphy][4] es un buscador de imágenes en formato GIF 
+- [Way Back Machine][8] nos da acceso a versiones antiguas de las páginas web
+- [CloudFlare][9] es un CDN gratuito para tu web
+- [Buzzsumo][10] nos permite conocer tedencias online
+
+[4]:https://giphy.com/
+[5]:http://httpstatus.io/
+[6]:http://www.browseo.net/
+[7]:http://www.webconfs.com/similar-page-checker.php
+[8]:http://archive.org/web/web.php
+[9]:https://www.cloudflare.com/
+[10]:http://buzzsumo.com/
+
 ## Optimizando aspectos técnicos
 
 Nuestra solución digital debe estar preparada para ofrecer un rendimiento y una calidad excepcional. Tenemos que ser cuidadosos con aquellos aspectos que nos ayuden a ofrecer un buen servicio a nuestros visitantes.
