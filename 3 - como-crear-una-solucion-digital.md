@@ -173,8 +173,8 @@ Esta directiva debemos aplicarla solo en casos muy concretos. Por ejemplo, si ac
 
 No obstante, debería ser algo temporal en lo que solucionamos el problema que está generando los errores. Una vez solventado, es recomendable ofrecer una página de **error 404 personalizada**.
 
-`
+```
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ /? [L,R=301]
-`
+```
