@@ -1,5 +1,7 @@
 # Midiendo la web
 
+> Este libro **está en beta** por lo que está lejos de su versión final. Lo iré escribiendo, poco a poco, a medida que saque tiempo.
+
 Midiendo la web es un proyecto formativo digital y gratuito.
 
 El objetivo de este libro es plasmar 'el amor' que siento por el desarrollo de las estrategias digitales. Quiero compartir con todo el mundo el conocimiento que he ido adquiriendo a lo largo de estos años en torno al **ecosistema digital**, haciendo especial hincapié en las **estrategias digitales**.
