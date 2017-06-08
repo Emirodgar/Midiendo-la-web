@@ -40,7 +40,10 @@ A la hora de diseñar nuestra solución tecnológica tenemos que tener presente 
 
 Existen múltiples plataformas tecnológicas que nos ayudarán en el diseño y desarrollo de nuestra solución web. Elegir una en detrimento de las otras dependerá fundamentalmente de nuestros recursos y necesidades.
 
-Quizá las plataformas más conocidas a día de hoy sean la de Google Cloud y Amazon Web Services.
+Quizá las plataformas más conocidas a día de hoy sean la de [Google Cloud][2] y [Amazon Web Services][3].
+
+[2]:https://cloud.google.com/?hl=es
+[3]:https://aws.amazon.com/es/
 
 ## Optimizando aspectos técnicos
 
