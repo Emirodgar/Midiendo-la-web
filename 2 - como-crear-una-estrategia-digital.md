@@ -1,6 +1,10 @@
 # ¿Qué es una estrategia digital?
 
-Si preguntáis seguro que muchas personas no sabrán responderos a esta sencilla pregunta. A lo largo de mi trayectoria profesional me he encontrado diversas situaciones en las que, habiendo dinero de por medio, se llevaban a cabo acciones sin un patrón u objetivo común, algo que cualquier estrategia digital bien planteada tiene que tener.
+> Mejor una solución aproximada a un problema correcto que una solución correcta a un problema aproximado - [John Tukey][1].
+
+[1]:https://en.wikiquote.org/wiki/John_Tukey
+
+Si preguntáis seguro que muchas personas no sabrán responderos a esta sencilla pregunta. A lo largo de mi trayectoria profesional me he encontrado diversas situaciones en las que, habiendo dinero de por medio, se llevaban a cabo acciones sin un patrón u objetivo común, algo que cualquier estrategia digital bien planteada debe tener.
 
 ## Proceso para definir una estrategia digital
 
@@ -8,7 +12,7 @@ Si preguntáis seguro que muchas personas no sabrán responderos a esta sencilla
 
 Antes de comenzar a trabajar en un proyecto digital tenemos que tener presente cuál es nuestro **objetivo principal**. Puede estar alineado con los objetivos generales de la empresa o ser específico de nuestro departamento.
 
-A partir de ahí tenemos que definir una estrategia que nos ayude a alanzarlo. Si no tenemos objetivo, nuestra estrategia estará descabezada y como se suele decir, no se puede comenzar la casa por el tejado.
+A partir de ahí tenemos que definir una estrategia que nos ayude a alcanzarlo. Si no tenemos objetivo, nuestra estrategia estará descabezada; como se suele decir, no se puede comenzar la casa por el tejado.
 
 ### Definiciendo las tácticas
 
