@@ -17,7 +17,7 @@ El proceso para definir correctamente nuestra estrategia pasará por **operativi
 1. Identificar y conocer al detalle el problema.
 2. Determinar el enfoque que queremos hacer (a nivel lógico).
 3. Determinar las acciones que llevaremos a cabo para solucionar el problema.
-4. Concretar los métricas que nos ayudarán a medir el rendimiento de las acciones.
+4. Concretar las métricas que nos ayudarán a medir el rendimiento de las acciones.
 5. Identificar las herramientas necesarias para la ejecucuón de la estrategia.
 
 Un fallo muy común es no ser concreto en las necesidades; si fallamos en el enfoque y en los requisitos, nuestra estrategia está abocada al fracaso antes incluso de comenzar su ejecución. 
