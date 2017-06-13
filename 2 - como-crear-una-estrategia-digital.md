@@ -28,7 +28,7 @@ Antes de comenzar a trabajar en un proyecto digital tenemos que tener presente c
 
 A partir de ahí tenemos que definir una estrategia que nos ayude a alcanzarlo. Si no tenemos objetivo, nuestra estrategia estará descabezada; como se suele decir, no se puede comenzar la casa por el tejado.
 
-Conociendo a dónde queremos llegar podremos determinar el enfoque o enfoques lógicos que podemos aplicar. Cada enfoque o aproximación para solucionar el problema se traducirá en una o varias tácticas.
+Conociendo a dónde queremos llegar podremos determinar el enfoque o enfoques lógicos que podemos aplicar. Cada enfoque o aproximación para solucionar el problema se traducirá en una o varias tácticas. No debemos contar únicamente con datos cuantitativos, hablar con las diferentes unidades de negocio implicadas en nuestra operativa nos aportará un gran valor; en definitiva, contaremos con un gran aporte cualitativo.
 
 ### 2.1.2 - Definiciendo las tácticas
 
@@ -46,15 +46,23 @@ Cada táctica implementada debe ser medida a través de una o varias métricas. 
 
 Independientemente de los KPIs que hayamos definido en nuestras tácticas, tenemos que tener otros asociados a nuestra estrategia; estos últimos serán los que determinarán si hemos alcanzado nuestro objetivo o no.
 
-## 2.2 - El retorno del conocimiento
+## 2.2 - Ejecutando la estrategia
+
+Tan importante es definir la estrategia digital como su ejecución. No podemos caer en el error de que pasen los meses sin obtener un resultado medible. Mi recomendación es utilizar una [metodología de desarrollo ágil][6] que nos permita avanzar nuestra estrategia de forma óptima.
+
+La principal característica de esta metodología es que se comienza con un **planteamiento inicial básico** elaborado en uno o dos días y a partir de ahí se va optimizando **de forma iterativa con pequeñas mejoras**. Comenzamos con una solución inicial básica y vamos aportando valor a lo misma, de forma que siempre se trabaja y se va mejorando el producto.
+
+[6]:https://es.wikipedia.org/wiki/Desarrollo_ágil_de_software
+
+## 2.3 - El retorno del conocimiento
 
 Cada táctica debe generar una serie de conocimiento que nos ayudará a determinar si la estrategia que planteamos inicialmente tiene sentido y si está progresando adecuadamente. Si no generamos información o no sabemos cómo medirla, **la táctica no será efectiva**.
 
 El proceso de análisis tiene que ser vivo y contínuo. Si no somos capaces de medir en tiempo real o al menos cada poco tiempo podemos encontrarnos con que, tras haber trabajado durante semanas, el planteamiento de la táctica es erróneo o que los KPIs que habíamos definido no nos aportan la información que necesitábamos.
 
-## 2.3 - Analista de datos
+## 2.4 - Analista de datos
 
-Toda estrategia tiene que tener un estratega al frente. En nuestro caso será un **analista de datos** cuya misión será recopilar y analizar la información para adquirir conocimientos que poner en práctica dentro de la empresa.
+Toda estrategia tiene que tener un estratega al frente. En nuestro caso será un **analista de datos** cuya misión es recopilar y analizar la información para adquirir conocimientos que poner en práctica dentro de la empresa.
 
 - Tiene que ser capaz de transformar la información obtenida en acciones claras y facilmente medibles.
 - Tiene que conocer el negocio y la tecnología con la que se trabaja.
