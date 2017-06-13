@@ -58,7 +58,7 @@ La principal característica de esta metodología es que se comienza con un **pl
 
 Cada táctica debe generar una serie de conocimiento que nos ayudará a determinar si la estrategia que planteamos inicialmente tiene sentido y si está progresando adecuadamente. Si no generamos información o no sabemos cómo medirla, **la táctica no será efectiva**.
 
-El proceso de análisis tiene que ser vivo y contínuo. Si no somos capaces de medir en tiempo real o al menos cada poco tiempo podemos encontrarnos con que, tras haber trabajado durante semanas, el planteamiento de la táctica es erróneo o que los KPIs que habíamos definido no nos aportan la información que necesitábamos.
+El proceso de análisis tiene que ser vivo y contínuo. Si no somos capaces de medir en tiempo real o al menos cada poco tiempo, podemos encontrarnos con que, tras haber trabajado durante semanas, el planteamiento de la táctica es erróneo o que los KPIs que habíamos definido no nos aportan la información que necesitábamos.
 
 ## 2.4 - Analista de datos
 
@@ -67,3 +67,5 @@ Toda estrategia tiene que tener un estratega al frente. En nuestro caso será un
 - Tiene que ser capaz de transformar la información obtenida en acciones claras y facilmente medibles.
 - Tiene que conocer el negocio y la tecnología con la que se trabaja.
 - Tiene que saber innovar y estar al día de las novedades relacionadas con su ecosistema de trabajo.
+
+A modo de resumen, si nuestro enfoque es aporta valor a los datos tenemos que contar con una gran capacidad analítica, conocimiento de la infraestructura y tecnologías y una visión global del negocio.
