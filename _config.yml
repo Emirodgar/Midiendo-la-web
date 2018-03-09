@@ -3,6 +3,6 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Midiendo la web - Libro online gratuito sobre estrategias digitales"
-title_separator          : "-"
+title                    : "Midiendo la web"
+title_separator          : "|"
 name                     : "Emirodgar"
