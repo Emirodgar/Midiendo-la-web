@@ -30,7 +30,7 @@ A partir de ahí tenemos que definir una estrategia que nos ayude a alcanzarlo. 
 
 Conociendo a dónde queremos llegar podremos determinar el enfoque o enfoques lógicos que podemos aplicar. Cada enfoque o aproximación para solucionar el problema se traducirá en una o varias tácticas. No debemos contar únicamente con datos cuantitativos, hablar con las diferentes unidades de negocio implicadas en nuestra operativa nos aportará un gran valor; en definitiva, contaremos con un gran aporte cualitativo.
 
-### 2.1.2 - Definiciendo las tácticas
+### 2.1.2 - Definiendo las tácticas
 
 Ya tenemos claro lo que queremos y cómo podemos conseguirlo. Es el momento de traducir todas esas ideas en acciones concretas. Las llamaremos tácticas.
 
