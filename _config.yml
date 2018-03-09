@@ -1,6 +1,4 @@
-#theme: jekyll-theme-dinky
-remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-dinky
 
 # Site Settings
 locale                   : "es-ES"
