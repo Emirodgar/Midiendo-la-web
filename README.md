@@ -12,8 +12,8 @@ Durante muchos años me he formado de forma autodidacta navegando y aprendiendo 
 
 No esperéis encontrar verdades absolutas entre estas líneas, solo será mi opinión basada en la experiencia de varios años trabajando con clientes y en proyectos personales.
 
- - [Introducción](introduccion)
+ - Introducción
    - [Definiendo conceptos](introduccion/definiendo-conceptos.md)
- - [Estrategias](estrategia)
+ - Estrategias
    - [Cómo crear una estrategia digital](estrategia/como-crear-una-estrategia-digital.md)
    - [Cómo crear una solución digital](estrategia/como-crear-una-solucion-digital.md)
