@@ -14,6 +14,6 @@ No esperéis encontrar verdades absolutas entre estas líneas, solo será mi opi
 
  - [Introducción](introduccion)
    - [Definiendo conceptos](introduccion/Definiendo-conceptos.md)
- - [Estrategias](estrategias)
+ - [Estrategias](estrategia)
    - [Cómo crear una estrategia digital](estrategia/como-crear-una-estrategia-digital.md)
    - [Cómo crear una solución digital](estrategia/como-crear-una-solucion-digital.md)
