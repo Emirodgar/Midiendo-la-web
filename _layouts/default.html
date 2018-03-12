@@ -26,10 +26,11 @@
           <li><a class="buttons star" href="https://emirodgar.com">Descargar</a></li>
           {% endif %}
           <li><a class="buttons" href="https://emirodgar.com">Autor: Emirodgar</a></li>
+          <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
         </ul>
 
         {% if site.github.is_project_page %}
-          <p class="header"><small>Desarrollado en Github por <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p></small>
+          <small>Desarrollado en Github por <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small>
         {% endif %}
 
         {% if site.github.is_user_page %}
