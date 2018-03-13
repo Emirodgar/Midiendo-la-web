@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 section {
@@ -12,7 +12,7 @@ section {
 }
 
 section p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     letter-spacing: .01rem;
     font-weight: 400;
     font-style: normal;
@@ -23,7 +23,7 @@ section p {
 }
 
 h1 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 34px;
@@ -33,7 +33,7 @@ h1 {
     padding-bottom: 20px;
 }
 h2.header {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #fff;
     font-size: 30px;
     font-weight: 300;
@@ -42,5 +42,6 @@ h2.header {
     margin-top: 0;
 }
 h3 {
+    font-family: 'Open Sans', sans-serif;
     font-size:25px;
 }
