@@ -4,7 +4,7 @@ description: Es importante aclarar la diferencia entre estos dos términos tan u
 
 # Diferencia entre marketing online y marketing digital
 
-<p class='bradcrumb' markdown='1'>
+<p class='breadcrumb' markdown='1'>
 [Índice](https://midiendolaweb.com) / introducción /  Diferencia entre marketing online y marketing digital
 </p>
 
