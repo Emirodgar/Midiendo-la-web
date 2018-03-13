@@ -2,8 +2,6 @@
 
 > Este libro **está en beta** por lo que está lejos de su versión final.
 
-**Midiendo la web** es un proyecto digital y gratuito.
-
 El objetivo de este libro es plasmar mi experiencia en el desarrollo de estrategias digitales. Quiero compartir con todo el mundo el conocimiento que he ido adquiriendo a lo largo de estos años en torno al **ecosistema digital**, haciendo especial hincapié en las **estrategias digitales**.
 
 No esperéis encontrar verdades absolutas entre estas líneas, solo será mi opinión basada en la experiencia de varios años trabajando en este sector.
