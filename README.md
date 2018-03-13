@@ -1,6 +1,3 @@
----
-description: Midiendo la web es un libro gratuito sobre estrategias digitales. Su autor es Emilio Rodriguez García, especialista digital.
----
 # Midiendo la web
 
 > Este libro **está en beta** por lo que está lejos de su versión final.
