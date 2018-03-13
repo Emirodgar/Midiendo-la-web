@@ -1,6 +1,6 @@
 # Midiendo la web
 
-> Este libro **está en beta** por lo que está lejos de su versión final. Lo iré escribiendo, poco a poco.
+> Este libro **está en beta** por lo que está lejos de su versión final.
 
 **Midiendo la web** es un proyecto digital y gratuito.
 
