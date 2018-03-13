@@ -4,7 +4,9 @@ description: Es importante aclarar la diferencia entre estos dos términos tan u
 
 # Diferencia entre marketing online y marketing digital
 
+<p class='bradcrumb' markdown='1'>
 [Índice](https://midiendolaweb.com) / introducción /  Diferencia entre marketing online y marketing digital
+</p>
 
 Reconozco que hace años me refería a mí mismo como 'consultor de marketing online' para indicar que mi trabajo no se limitaba únicamente al SEO (Search Engine Optimization) -rama en la que comencé en este mundo. Sin embargo, desde hace un par de años prefiero definir mi trabajo como **consultor de marketing digital**.
 
