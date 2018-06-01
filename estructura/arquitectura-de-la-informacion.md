@@ -11,9 +11,9 @@ El objetivo de arquitecturar de forma óptima nuestra información es asegurar:
  - Definir caminos de conversión óptimos.
  - Garantizar una buena experiencia a los usuarios.
  
- ## Fases para arquitecturar la información de forma óptima.
+## Fases para arquitecturar la información de forma óptima.
  
- ### Recopilar la información
+### Recopilar la información
  
 El primer paso será la recopilación de toda la información de la que queremos hacer uso. No es tarea nimina ya que rara vez esta información se encuentra localizada en un único lugar y, en muchas ocasiones, ni siquiera está estructurada lo que suele acarrera procesos complejos.
 
