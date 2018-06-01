@@ -1,4 +1,4 @@
-#Arquitectura de la información
+# Arquitectura de la información
 
 **¿Qué información tenemos y cómo queremos presentarla?** la respuestas a estas preguntas nos ayudarán a definir la estructura de nuestra solución tecnológica. No importa que estemos hablando de una página web informativa, una intranet, una app mobile u otra solución. El ejercicio de elaborar un **directorio de navegación óptimo** es crucial si queremos ofrecer una grata experiencia de los usuarios y perseguir la consecución de objetivos.
 
