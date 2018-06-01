@@ -8,6 +8,8 @@ No esperéis encontrar verdades absolutas entre estas líneas, solo será mi opi
 
  - Introducción
    - [Diferencia entre marketing online y marketing digital](introduccion/diferencia-marketing-online-digital.md)
- - Estrategias
+ - Análisis estratégico
    - [Cómo crear una estrategia digital](estrategia/como-crear-una-estrategia-digital.md)
    - [Cómo crear una solución digital](estrategia/como-crear-una-solucion-digital.md)
+ - Definiendo la estructura
+   - [Arquitectura de la información](estructura/arquitectura-de-la-informacion.md)
