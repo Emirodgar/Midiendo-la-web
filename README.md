@@ -12,4 +12,6 @@ No esperéis encontrar verdades absolutas entre estas líneas, solo será mi opi
    - [Cómo crear una estrategia digital](estrategia/como-crear-una-estrategia-digital.md)
    - [Cómo crear una solución digital](estrategia/como-crear-una-solucion-digital.md)
  - Definiendo la estructura
+   - Auditoría técnica
    - [Arquitectura de la información](estructura/arquitectura-de-la-informacion.md)
+   - PWA
