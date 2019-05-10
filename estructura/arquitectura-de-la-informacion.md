@@ -1,3 +1,15 @@
+---
+title: Arquitectura de la información
+description: Optimiza tu tiempo y automatiza el rendimiento de múltiples URLs dentro de tu sitio web
+lang: es_ES
+author: Emirodgar
+tags: seo, google, performance
+date: 16/04/2019
+image: https://emirodgar.com/publicaciones/img/lighthouse-automatic.png
+permalink: automatizar-analisis-lighthouse
+
+---
+
 # Arquitectura de la información
 
 **¿Qué información tenemos y cómo queremos presentarla?** la respuesta a estas preguntas nos ayudarán a definir la estructura de nuestra solución tecnológica. No importa que estemos hablando de una página web informativa, una intranet, una app mobile u otra solución. El ejercicio de elaborar un **directorio de navegación óptimo** es crucial si queremos ofrecer una grata experiencia de los usuarios y perseguir la consecución de objetivos.
@@ -22,3 +34,6 @@ El primer paso será la recopilación de toda la información de la que queremos
 El siguiente paso será organizar toda la información recopilada y establecer su presentación. Debemos tener siempre en mente el público objetivo y los objetivos que queremos alcanzar.
 
 Por ejemplo, no será lo mismo la arquitectura que debemos utilizar para una web centrada en el usuario (*customer centric*), que para un ecommerce.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjgzMTA5ODM3XX0=
+-->
