@@ -18,7 +18,7 @@ En esta página iremos recopilando información y recursos interesantes para la 
 
 ## Recursos analítica web
 
-- Dashboards y templates en Google Sheets
+- [Dashboards y templates en Google Sheets](recursos/dashboard-template-google-sheet)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjE0MjMxNF19
+eyJoaXN0b3J5IjpbNDkzNzM1MDYzXX0=
 -->
