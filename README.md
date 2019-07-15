@@ -17,6 +17,8 @@ En esta página iremos recopilando información y recursos interesantes para la 
    - [Arquitectura de la información](estructura/arquitectura-de-la-informacion.md)
 
 ## Recursos analítica web
+
+- Dashboards y templates en Google Sheets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzkwMzkxOF19
+eyJoaXN0b3J5IjpbMTYzNjE0MjMxNF19
 -->
