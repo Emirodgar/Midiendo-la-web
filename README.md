@@ -11,11 +11,8 @@ date: 15/07/2019
 
 # Midiendo la web
 
-> Este libro **está en beta** por lo que está lejos de su versión final.
 
-El objetivo de este libro es plasmar mi experiencia en el desarrollo de estrategias digitales. Quiero compartir con todo el mundo el conocimiento que he ido adquiriendo a lo largo de estos años en torno al **ecosistema digital**, haciendo especial hincapié en las **estrategias digitales**.
-
-No esperéis encontrar verdades absolutas entre estas líneas, solo será mi opinión basada en la experiencia de varios años trabajando en este sector.
+En esta página iremos recopilando información y recursos interesantes para la analítica web. En especial hablaremos sobre Google Analytics y Google Tag Manager.
 
  - Introducción
    - [Diferencia entre marketing online y marketing digital](introduccion/diferencia-marketing-online-digital.md)
@@ -27,5 +24,5 @@ No esperéis encontrar verdades absolutas entre estas líneas, solo será mi opi
    - [Arquitectura de la información](estructura/arquitectura-de-la-informacion.md)
    - PWA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5ODYxMTA1XX0=
+eyJoaXN0b3J5IjpbLTk0NDI4NzMzXX0=
 -->
