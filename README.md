@@ -1,3 +1,14 @@
+---
+title: Analítica web | Google Analytics y Tag Manager
+description: Aprende a medir correctamente tus proyectos digitales
+lang: es_ES
+author: Emirodgar
+tags: offtopic
+date: 15/07/2019
+
+
+---
+
 # Midiendo la web
 
 > Este libro **está en beta** por lo que está lejos de su versión final.
@@ -15,3 +26,6 @@ No esperéis encontrar verdades absolutas entre estas líneas, solo será mi opi
    - Auditoría técnica
    - [Arquitectura de la información](estructura/arquitectura-de-la-informacion.md)
    - PWA
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzk5ODYxMTA1XX0=
+-->
