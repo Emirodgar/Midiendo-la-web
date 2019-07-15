@@ -15,8 +15,10 @@ A continuación mostramos una serie de paneles de control y gestión de nuestra 
 
 - [Analizar la conversión](https://www.youtube.com/watch?v=zp6zxmsYepQ)
 - [Generar parámetros UTM (seguimiento de campañas)](https://linktosheets.com/utm-tagging-with-google-spreadheets/)
-- Generar eventos de Google Analytics
+- [Generar eventos de Google Analytics](https://linktosheets.com/google-analytics-event-tracking-generator/)
+- [Generar mapas de calor de los datos](http://www.seerinteractive.com/blog/google-analytics-heatmap/)
+- [Mapa de calor del comportamiento de los usuarios](https://josephwkelly.com/blog/google-analytics-heatmap/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDM5NjYwNCwzMjg0NDU0OTldfQ==
+eyJoaXN0b3J5IjpbNTkzNjM1MzQwLDMyODQ0NTQ5OV19
 -->
