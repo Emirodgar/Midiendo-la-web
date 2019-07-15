@@ -1,12 +1,16 @@
+
 ---
-description: Es importante aclarar la diferencia entre estos dos términos tan utilizados
+title: Diferencia entre marketing online y marketing digital
+description: ¿Qué diferencia existe entre estos dos términos?
+lang: es_ES
+author: Emirodgar
+tags: arquitectura
+date: 10/05/2019
+permalink: introduccion/diferencia-marketing-online-digital
+
 ---
 
 # Diferencia entre marketing online y marketing digital
-
-<p class='breadcrumb' markdown='1'>
-[Índice](https://midiendolaweb.com) / Introducción /  Diferencia entre marketing online y marketing digital
-</p>
 
 Reconozco que hace años me refería a mí mismo como 'consultor de marketing online' para indicar que mi trabajo no se limitaba únicamente al SEO (Search Engine Optimization) -rama en la que comencé en este mundo. Sin embargo, desde hace un par de años prefiero definir mi trabajo como **consultor de marketing digital**.
 
@@ -21,3 +25,6 @@ Hace años las estrategias de marketing se dividían en 'online' y 'offline' por
 A día de hoy las empresas no cuentan únicamente con una página web, disponen también de perfiles sociales, herramientas internas de gestión de la información, **procesos orientados a la omnicanalidad**, explotaciones del 'Internet de las cosas' y un largo etcétera por lo que intentar englobar todo este ecosistema bajo la denominación 'online' se me queda corto. De ahí, quizá, venga el cambio al término 'digital' el cuál sí es un atributo común a todas ellas.
 
 No importa lo que hagamos ni cómo lo hagamos, si se desarrolla en un medio digital **dejará rastro y podremos medirlo**. Eso es lo que veremos en este libro.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyODU4MTcxODZdfQ==
+-->
