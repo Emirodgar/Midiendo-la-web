@@ -1,12 +1,12 @@
 
 ---
 title: Diferencia entre marketing online y marketing digital
-description: ¿Qué información tenemos y cómo queremos presentarla? la respuesta a estas preguntas nos ayudarán a definir la estructura de nuestra solución tecnológica.
+description: ¿Qué diferencia existe entre estos dos términos?
 lang: es_ES
 author: Emirodgar
 tags: arquitectura
 date: 10/05/2019
-permalink: estructura/arquitectura-de-la-informacion
+permalink: introduccion/diferencia-marketing-online-digital
 
 ---
 
@@ -26,5 +26,5 @@ A día de hoy las empresas no cuentan únicamente con una página web, disponen 
 
 No importa lo que hagamos ni cómo lo hagamos, si se desarrolla en un medio digital **dejará rastro y podremos medirlo**. Eso es lo que veremos en este libro.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzE0MzY2N119
+eyJoaXN0b3J5IjpbLTEyODU4MTcxODZdfQ==
 -->
