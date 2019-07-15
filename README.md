@@ -1,9 +1,5 @@
 # Midiendo la web
 
-
-# Midiendo la web
-
-
 En esta página iremos recopilando información y recursos interesantes para la **analítica web**. En especial hablaremos sobre Google Analytics y Google Tag Manag
 
 ## Lecturas interesantes
@@ -20,5 +16,5 @@ En esta página iremos recopilando información y recursos interesantes para la 
 
 - [Dashboards y templates en Google Sheets](recursos/dashboard-template-google-sheet)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzNzM1MDYzXX0=
+eyJoaXN0b3J5IjpbODQ5MzMyMDI0XX0=
 -->
